@@ -1,0 +1,22 @@
+1.什么是Java？
+Java是一种可以撰写跨平台应用软件的面向对象的程序设计语言，是由Sun Microsystems公司于1995年5月推出的Java程序设计语言和Java平台（即JavaSE, JavaEE, JavaME）的总称。Java 技术具有卓越的通用性、高效性、平台移植性和安全性，广泛应用于个人PC、数据中心、游戏控制台、科学超级计算机、移动电话和互联网，同时拥有全球最大的开发者专业社群。
+
+
+
+2.Java的语言优势
+
+Java语言简单、面向对象、分布式、健壮、安全、体系结构中立、可移植、高性能、解释型、多线程、动态。
+
+
+
+3.Java 分类
+
+Java SE(Java Platform  Standard Edition) ：Java平台标准版。主要用于桌面应用程序的开发，是Java技术的核心，提供基础 Java开发工具、执行环境与应用程序接口(API)。 
+Java EE(Java Platform  Enterprise Edition):Java平台企业版。主要用于网络程序和企业级应用的开发。
+Java ME(Java Platform Mobile Edition) 嵌入式开发（手机手机软件游戏编程、小家电等）  
+
+
+4.数据类型
+
+基本数据类型：byte、short、int 、 long，float 、double，  char ，boolean
+引用数据类型：class 、interface 、array

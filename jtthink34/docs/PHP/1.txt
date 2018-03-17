@@ -1,0 +1,32 @@
+PHP是当今流行的编程语言之一。特别是在国内，PHP是大部分web项目的首选，甚至很多公司从其它语言转到了PHP。PHP的开发成本低，周期短，后期维护费用低，开源产品丰富等成为了它广受欢迎的原因。
+    善用开源软件能够有效降低软件开发成本，提高工作效率。好的程序员一定要了解你所从事的领域中有哪些开源软件可以为你所用。本专题中推荐了PHP开发领域中最流行的十个开源框架，开发者可根据自己的需要自行选择。
+    symfony
+简单的模板功能symfony是一个开源的PHP Web框架。基于最佳Web开发实践，已经有多个网站完全采用此框架开发，symfony的目的是加速Web应用的创建与维护。它的特点如下：缓存管理 、自定义URLs、搭建了一些基础模块、多语言与I18N支持、采用对象模型与MVC分离、Ajax支持、适用于企业应用开发。
+【项目主页】【CODE托管地址】【查看教程及示例】
+ CodeIgniter
+CodeIgniter
+CodeIgniter 是一个简单快速的PHP MVC 框架。它为组织提供了足够的自由支持，允许开发人员更迅速地工作。使用 CodeIgniter 时，您不必以某种方式命名数据库表，也不必根据表命名模型。这使 CodeIgniter 成为重构遗留 PHP 应用程序的理想选择，在此类遗留应用程序中，可能存在需要移植的所有奇怪的结构。
+【项目主页】【CODE托管地址】【查看教程及示例】
+ Laravel
+Laravel
+Laravel 是一个简单优雅的 PHP web 开发框架，将你从意大利面条式的代码中解放出来。通过简单的、表达式语法开发出很棒的 Web 应用。
+【项目主页】【CODE托管地址】【查看教程及示例】
+ CakePHP
+CakePHP
+CakePHP是一个运用了诸如ActiveRecord、Association Data Mapping、Front Controller和MVC等著名设计模式的快速开发框架。该项目主要目标是提供一个可以让各种层次的PHP开发人员快速地开发出健壮的Web应用，而 又不失灵活性。
+【项目主页】【CODE托管地址】【查看教程及示例】
+ Yii
+Yii
+Yii是一个高性能的PHP5的web应用程序开发框架。通过一个简单的命令行工具 yiic 可以快速创建一个web应用程序的代码框架，开发者可以在生成的代码框架基础上添加业务逻辑，以快速完成应用程序的开发。
+【项目主页】【CODE托管地址】【查看教程及示例】
+ PHPUnit
+PHPUnit
+PHPUnit是一个轻量级的PHP测试框架。它是在PHP5下面对JUnit3系列版本的完整移植。这个工具也可以被Xdebug扩展用来生成代码覆盖率报告 ，并且可以与phing集成来自动测试，最合它还可以和Selenium整合来完成大型的自动化集成测试。
+【项目主页】【CODE托管地址】【查看教程及示例】
+ SlimFramework
+SlimFramework
+这是一个简单的 PHP5 框架用来创建 RESTful 的 Web 应用。可以帮助你快速编写简单功能强大的 RESTful 风格的web应用程序 和APIs。Slim很简单，可以让新手和专业人士使用。
+【项目主页】【CODE托管地址】【查看教程及示例】
+ PHP Silex
+PHP Silex
+Symfony团队出品的php5.3微框架， 可大量复用Symfony2组件。Silex是Symfony 2的简化版本，比大多数PHP框架更适合开发简单应用。
