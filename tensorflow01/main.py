@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 
 # 引入TensorFlow库
-import tensorflow01 as tf
+import tensorflow as tf
 
 # 创建一个常量
 hw = tf.constant("Hello World ! I love TensorFlow")
